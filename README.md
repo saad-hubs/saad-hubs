@@ -1,5 +1,5 @@
-## Hi there 👋
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+### Hi there 👋
+### I'm Saad Ghulam, a full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
 <!--
 **saad-hubs/saad-hubs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
